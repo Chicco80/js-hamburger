@@ -10,7 +10,6 @@ function mine(){
 apriti.addEventListener("click", mine);
 
 
-
 let chiudi = document.querySelector(".close");
 
 function mine2(){
@@ -19,4 +18,4 @@ function mine2(){
     // console.log(menu);
 }
 
-chiudi.addEventListener("clicK", mine2);
+chiudi.addEventListener("click", mine2);
